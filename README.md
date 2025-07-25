@@ -1,6 +1,6 @@
-# StayNest
+# Wanderlust
 
-StayNest is a full-stack web application for booking vacation rentals, inspired by Airbnb. It allows property owners to list their homes and travelers to book stays with ease.
+Wanderlust is a full-stack web application for booking vacation rentals, inspired by Airbnb. It allows property owners to list their homes and travelers to book stays with ease.
 
 ## Technologies Used
 
