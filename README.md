@@ -22,4 +22,4 @@ Wanderlust is a full-stack web application for booking vacation rentals, inspire
 
 1. Clone the repo: 
    ```bash
-   git clone https://github.com/prince-kumar4012/staynest.git
+   git clone https://github.com/prince-kumar4012/wanderlust.git
